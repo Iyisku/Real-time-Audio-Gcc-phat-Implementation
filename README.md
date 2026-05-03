@@ -40,6 +40,7 @@ Open another browser tab to the same URL and join the same room
 Speak into one tab - you'll hear audio in the other
 
 ## Project Structure
+```
 src/
 ├── main.cpp              # Entry point, starts all services
 ├── ntp_server.cpp/h      # NTP time server (UDP port 123)
